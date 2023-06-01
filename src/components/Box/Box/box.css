@@ -10,4 +10,15 @@
     font-weight: bold;
     line-height: 5rem;
     margin: 0.5rem;
+    cursor: pointer;
+}
+.x{
+    color: red;
+}
+.o{
+    color: blue;
+}
+
+.box:hover{
+    box-shadow: 0 0 15px grey;
 }

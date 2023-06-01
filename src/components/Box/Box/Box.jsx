@@ -8,4 +8,4 @@ const Box = ({ value, onClick }) => {
   )
 }
 
-export default Box
+export default Box;
