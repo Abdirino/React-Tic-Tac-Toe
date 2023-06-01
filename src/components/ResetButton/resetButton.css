@@ -1,0 +1,12 @@
+.reset{
+    cursor: pointer;
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(0, 132, 255);
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    display: block;
+}
